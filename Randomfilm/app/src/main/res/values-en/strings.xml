@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Movie</string>
+
+    <string name="btn_show">Show a movie</string>
+    <string name="btn_reset">Reset</string>
+    <string name="hint_result">A movie will appear here…</string>
+    <string name="msg_empty">No more movies! Press “Reset”.</string>
+    <string name="msg_counter">Shown: %1$d of %2$d</string>
+
+    <string-array name="movies">
+        <item>Brother</item>
+        <item>Brother 2</item>
+        <item>The Merchant</item>
+        <item>Behind the Reality</item>
+        <item>Project End of the World</item>
+        <item>Blade Runner 2049</item>
+        <item>American History X</item>
+        <item>The Green Mile</item>
+        <item>Forrest Gump</item>
+        <item>Venom</item>
+        <item>The Avengers</item>
+        <item>Avengers: Endgame</item>
+        <item>Jumanji 2</item>
+        <item>Kick-Ass</item>
+        <item>Don\'t Be a Menace…</item>
+    </string-array>
+</resources>

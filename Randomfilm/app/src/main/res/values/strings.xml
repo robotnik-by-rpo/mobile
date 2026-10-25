@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Случайный фильм</string>
+
+    <string name="btn_show">Показать фильм</string>
+    <string name="btn_reset">Сброс</string>
+    <string name="hint_result">Здесь появится фильм…</string>
+    <string name="msg_empty">Фильмы закончились! Нажмите «Сброс».</string>
+    <string name="msg_counter">Показано: %1$d из %2$d</string>
+
+    <string-array name="movies">
+        <item>Брат</item>
+        <item>Брат 2</item>
+        <item>Коммерсант</item>
+        <item>Закулисье реальности</item>
+        <item>Проект конец света</item>
+        <item>Бегущий по лезвию 2049</item>
+        <item>Американская история х</item>
+        <item>Зелёная миля</item>
+        <item>Форест Гамп</item>
+        <item>Веном 1</item>
+        <item>Мстители</item>
+        <item>Мстители финал</item>
+        <item>Джуманджи 2</item>
+        <item>Пипец</item>
+        <item>Не грози южному централу</item>
+    </string-array>
+</resources>
