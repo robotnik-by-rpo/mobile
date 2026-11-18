@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="city_hint">Введите город (напр. Moscow)</string>
+    <string name="update_button">Обновить</string>
+</resources>
