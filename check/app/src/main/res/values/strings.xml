@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherWidgets</string>
+
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+    </string-array>
+
+    <string name="temp_c">°C</string>
+    <string name="temp_f">°F</string>
+    <string name="show_wind">Показывать направление ветра</string>
+    <string name="city_label">Город:</string>
+    <string name="api_key_hint">Введите API key OpenWeatherMap</string>
+</resources>

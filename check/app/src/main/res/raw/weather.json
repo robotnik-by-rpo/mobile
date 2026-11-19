@@ -1,0 +1,39 @@
+{
+  "weather": [
+    {
+      "city": "Москва",
+      "temperatureC": 5.0,
+      "windDirection": "СВ",
+      "windSpeed": 3.2,
+      "description": "Облачно"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "temperatureC": 3.0,
+      "windDirection": "З",
+      "windSpeed": 5.1,
+      "description": "Дождь"
+    },
+    {
+      "city": "Казань",
+      "temperatureC": -2.0,
+      "windDirection": "С",
+      "windSpeed": 2.4,
+      "description": "Снег"
+    },
+    {
+      "city": "Новосибирск",
+      "temperatureC": -10.0,
+      "windDirection": "СЗ",
+      "windSpeed": 4.0,
+      "description": "Ясно"
+    },
+    {
+      "city": "Екатеринбург",
+      "temperatureC": 0.0,
+      "windDirection": "Ю",
+      "windSpeed": 1.8,
+      "description": "Пасмурно"
+    }
+  ]
+}
